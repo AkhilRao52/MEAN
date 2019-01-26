@@ -1,0 +1,5 @@
+/* Host Selector targets the element itself */
+:host { 
+    display: block; /* To treat the elements as block level elements */
+    margin-top: 1rem;
+}
